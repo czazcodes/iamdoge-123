@@ -224,6 +224,10 @@ function cookieClicker() {
   openAg('https://orteil.dashnet.org/cookieclicker', "CookieClicker");
 }
 
+function taming() {
+  openAg('https://taming.io', "Taming.io");
+}
+
 function rBowl() {
   document.title = 'Doge | V4';
   var cloakcheckScript = document.createElement("script");
