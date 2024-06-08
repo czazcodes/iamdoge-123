@@ -74,6 +74,7 @@ var gms = {
   'Hole.io': { imageUrl: "/assets/img/hole-io.webp", onClick: holeio, height: 130 },
   'Paper.io': { imageUrl: "/assets/img/paperio.webp", onClick: paperIo },
   'Territorial.io': { imageUrl: "/assets/img/territorial.webp", onClick: territorial },
+  'Taming.io': { imageUrl: "https://play-lh.googleusercontent.com/EoY1Ey67rMjTHXIUqZCL3m4Ad4Of8BQr7tUHIcHWkM4YEiMugylaTPBNPAZQ6J8jumI=w240-h480-rw", onClick: taming, height: 130},
   // Running Games
   'Subway Surfers': { imageUrl: "/assets/img/subway.webp", onClick: subway, height: 130 },
   'Temple Run': { imageUrl: "/assets/img/temple-run.webp", onClick: templeRun },
